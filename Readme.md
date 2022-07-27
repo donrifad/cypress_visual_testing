@@ -16,7 +16,7 @@ node --version
 <br>Most of the time editor will install the dependencies automatically</br>
 <br> plugin is added inside the plugin folder</br>
 ```
-npm install package.json
+npm install
 ```
 <br> We have used cypress 4.1 </br>
 <br>cypress older version only supports for the cypress image sanpshot plugin </br>
