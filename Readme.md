@@ -19,7 +19,6 @@ node --version
 npm install
 ```
 <br> We have used cypress 4.1 </br>
-<br>cypress older version only supports for the cypress image sanpshot plugin </br>
 
 
 ## Execute the tests ##
