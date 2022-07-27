@@ -22,9 +22,9 @@ npm install
 
 
 ## Execute the tests ##
-* To execute the tests on you have to run the test firts,it will take the sanp shots of your web pages and saved in the screen shot folder this will automatically generated.
-* Automatic folder will generated when you run the test again with the screen shot comparisions reports
-* Run the below command twice, first time it will take the snap shots and second run it will compare the snapshots and generate the reports
+* To execute the tests on you have to run the test first,it will take the sanp shots of your web pages and saved in the screen shot folder this will automatically generated.
+* Automatic folder will generated when you run the test again with the screen shot comparisions reports.
+* Run the below command twice, first time it will take the snap shots and second run it will compare the snapshots and generate the reports.
 * Test file name is example_spec.js under integration folder
 ```
 npx cypress run -b chrome
