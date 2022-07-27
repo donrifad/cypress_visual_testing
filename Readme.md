@@ -1,6 +1,6 @@
 # Frame Work Setup #
 <br>This is a based on  cypress with the cypress-image-snapshot pluging </br>
-<br>Main reason for this project is to test the page responsiveness of a web page</br>
+<br>Main reason for this project is to test the page responsiveness with multiple page sizes in a single test</br>
 
 ## Pre prerequisites ##
 Install  node https://nodejs.org/en/download/
