@@ -1,4 +1,4 @@
-# Frame Work Setup #
+# Frame Work Setup#
 <br>This is a based on  cypress with the cypress-image-snapshot pluging </br>
 <br>Main reason for this project is to test the page responsiveness with multiple page sizes in a single test</br>
 
